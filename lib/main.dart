@@ -1,3 +1,4 @@
+import 'package:animation/thirdPage.dart';
 import 'package:flutter/material.dart';
 import 'firstPage.dart';
 
