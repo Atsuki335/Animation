@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'main.dart';
-import 'firstPage.dart';
 import 'thirdPage.dart';
 
 class SecondPage extends StatelessWidget {

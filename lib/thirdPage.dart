@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'main.dart';
-import 'secondPage.dart';
 
 class ThirdPage extends StatelessWidget {
   @override
